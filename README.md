@@ -4,6 +4,9 @@
 
 Automate your daily schedule by integrating Notion with OpenAI's GPT model. This script retrieves activities from a Notion database and generates a new daily schedule based on your tasks, instructions, and past schedule history.
 
+Demo
+https://github.com/lfpmeloni/notion-gpt-scheduler-/blob/main/docs/Notion%20GPT%20Scheduler.gif
+
 ## Features
 - Input your routine or instructions into a Notion page.
 - The script retrieves the information, processes it, and generates a detailed schedule based on your needs.
